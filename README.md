@@ -12,3 +12,5 @@ Este projeto consiste no desenvolvimento de um sistema de reconhecimento de plac
 ## Exemplo de funcionamento
 
 ![Exemplo de detecção e tracking](image.png)
+
+O vídeo usado neste projeto pode ser baixado [aqui](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/)
