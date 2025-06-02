@@ -1,0 +1,7 @@
+path: C:/Portfolio/ComputerVision/ObjectDetection/PlateRecognation/data
+train: train/images
+val: val/images
+test:
+
+names:
+  0: plate
